@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "prototype4\\x64\\Debug\\signal.obj",
+            "outputs": [
+                "prototype4\\x64\\Debug\\signal.h.obj.dt.module.json",
+                "prototype4\\x64\\Debug\\signal.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
